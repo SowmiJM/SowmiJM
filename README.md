@@ -21,7 +21,7 @@ Data enthusiast with a diverse international background spanning Australia, Indi
 
 🌱 Currently enhancing my skills in data science and machine learning
 🔭 Working on data profiling and mental health analysis projects
-📫 How to reach me: sowmijm@gmail.com
+📫 How to reach me: jmsnaarayanan92@gmail.com
 
 ## 🛠️ Skills at a Glance
 
